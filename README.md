@@ -1,6 +1,5 @@
-### Hi there 👋
--Amehta#7445 on discord
--He/Him
+## Contact - Amehta#7445 on discord
+## He/Him
 
 
 <!--
