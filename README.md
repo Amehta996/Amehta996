@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 📫 How to reach me: ... Amehta#7445 on discord 👋
-- 😄 Pronouns: ... He/Him
+-Amehta#7445 on discord
+-He/Him
+
 
 <!--
 **Amehta996/Amehta996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
