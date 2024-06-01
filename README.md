@@ -1,4 +1,3 @@
-## Contact - Amehta#7445 on discord
 ## He/Him
 <p align="center">
   
